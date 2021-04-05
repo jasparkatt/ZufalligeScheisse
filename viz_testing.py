@@ -46,3 +46,4 @@ chart = alt.Chart(df).mark_circle(size=50).encode(
 ).interactive()
 chart.show()
 
+jt -t grade3 -f droidmono -fs 9 -nf sourcesans  -nfs 95 -T -N -altp -cursc o -cursw 5
